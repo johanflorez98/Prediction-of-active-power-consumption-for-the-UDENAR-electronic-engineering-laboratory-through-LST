@@ -1,1 +1,1 @@
-# Prediction-of-active-power-consumption-for-the-UDENAR-electronic-engineering-laboratory-through-LST
+# Predicción del consumo de potencia activa para el laboratorio de ingeniería electrónica UDENAR, mediante redes LSTM, utilizando Pytorch.
